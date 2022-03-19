@@ -112,8 +112,8 @@ Afterwards, we were led inside to listen to Deantha Edmunds, the only Innuit sop
 She interpreted this artwork about indegenous land grabbing, in languages I didn't understand, but whose emotions I felt. I teared up as the tree which provided shade under which elders told stories fell to the ground.
 
 <figure class="video_container">
-  <video controls="true" allowfullscreen="true">
-    <source src="../assets/throat_singing.mp4" type="video/mp4">
+  <video controls="true" preload="metadata" allowfullscreen="true">
+    <source src="../assets/throat_singing.mp4#t=0.1" type="video/mp4">
   </video>
   <figcaption>Throat Singing Lesson</figcaption>
 </figure>
