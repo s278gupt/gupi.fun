@@ -47,7 +47,7 @@ a { color: $if(linkcolor)$$linkcolor$$else$#1a1a1a$endif$; }
 a:visited { color: $if(linkcolor)$$linkcolor$$else$#1a1a1a$endif$; }
 a::before { content: "" }
 code a::before {content: "";}
-img { max-width: 100%; }
+img,video { width: 100%; }
 .video_container {
     margin: 0 auto;
     display: flex;
