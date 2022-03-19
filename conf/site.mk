@@ -14,7 +14,7 @@ AUTHOR="Saumya Gupta"
 DATE_FMT="%d %B, %Y at %H:%M hrs"
 
 # title of the table of contents
-TOC_TITLE="Overview"
+TOC_TITLE="Writings"
 
 ###############################################################################
 # BUILD CONFIG
@@ -47,13 +47,11 @@ FONTCOLOR="rgb(34,34,34)"
 ACCENTCOLOR="rgb(254,109,115)"
 LINKCOLOR="rgb(51,167,255)"
 # monospace (code) background color
-MONO_BG="rgb(61,73,81)"
+MONO_BG="rgba(34,34,34,0.1)"
 BLOCKQUOTE_BORDER="rgb(71,67,54)"
 BLOCKQUOTE_FG="${FONTCOLOR}"
 BLOCKQUOTE_BG="rgb(82,76,56)"
 CODE_THEME="breezedark"
 
-# Template files used to generate the site.
+# Override template files used to generate the site.
 CSS_TEMPLATE=src/templates/tmpl.css
-HTML_TEMPLATE=src/templates/tmpl.html
-INDEX_HTML_TEMPLATE=src/templates/index.tmpl.html

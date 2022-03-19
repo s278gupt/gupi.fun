@@ -1,7 +1,9 @@
 ---
-title: Hello world
+title: Hello!
 ---
 
-This is a test paragraph.
+This is where I write about (my) life sometimes. 
 
-## blah
+<sub><sup>
+    Shoutout to [Navaz](navaz.me) for compiling and hosting this site for me.
+</sup></sub>
