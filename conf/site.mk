@@ -42,9 +42,9 @@ MAINFONT="Ubuntu"
 FONTSIZE="13pt"
 
 # site-wide background color
-BACKGROUNDCOLOR="rgb(45,45,45)"
-FONTCOLOR="rgb(231,233,235)"
-ACCENTCOLOR="rgb(244,130,37)"
+BACKGROUNDCOLOR="rgb(255,255,255)"
+FONTCOLOR="rgb(34,34,34)"
+ACCENTCOLOR="rgb(254,109,115)"
 LINKCOLOR="rgb(51,167,255)"
 # monospace (code) background color
 MONO_BG="rgb(61,73,81)"
